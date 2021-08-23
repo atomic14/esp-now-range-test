@@ -1,0 +1,6 @@
+{
+  "build": {
+    "flags": "-Wno-reorder",
+    "includeDir": "NemaTode/include/"
+  }
+}
